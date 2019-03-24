@@ -1,0 +1,28 @@
+ai:who
+biết:know
+bút chì:pencil
+bút mực:pen
+chân:leg
+cuốn tập:book
+cùng:and
+cổ xưa:ancient
+gởi gấp:express
+máy tính xách tay:laptop
+máy vi tính:laptop
+mắt:eye
+ngọc:gem
+tay:arm
+thang:win
+thư:letter
+trái chuối:banana
+trái táo:apple
+trước:before,previously
+và:and
+vàng:gold
+vũ khí:arms,weapons
+xe hơi:car
+xe o to:car
+áo thun:tshirt
+đốt cháy:burn,desire
+động vật:animal
+﻿bàn phím:keyboard

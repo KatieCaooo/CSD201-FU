@@ -1,0 +1,31 @@
+ancient:cổ xưa
+and:cùng
+animal:động vật
+arm:tay
+arms:vũ khí
+banana:trái chuối
+be on fire:đốt cháy
+before:trước
+book:cuốn tập
+burn:đốt cháy
+car:xe o to,xe hơi
+desire:đốt cháy
+express:gởi gấp
+eye:mắt
+gem:ngọc
+gold:vàng
+in front of:trước
+keyboard:bàn phím
+know:biết
+laptop:máy tính xách tay,máy vi tính
+leg:chân
+letter:thư
+pen:bút mực
+pencil:bút chì
+previously:trước
+tshirt:áo thun
+và:and
+weapons:vũ khí
+who:ai
+win:thang
+﻿apple:trái táo
